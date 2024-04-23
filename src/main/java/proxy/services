@@ -1,0 +1,26 @@
+<html>
+<head><title>
+Services Web
+</title></head>
+<body>
+<h1>Services Web</h1>
+<table width='100%' border='1'>
+<tr>
+<td>
+Adresse
+</td>
+<td>
+Informations
+</td>
+</tr>
+<tr>
+<td>
+<table border="0"><tr><td>Nom de service :</td><td>{http://ws.tpjws.com/}BanqueWS</td></tr><tr><td>Nom de port :</td><td>{http://ws.tpjws.com/}BanqueServicePort</td></tr></table>
+</td>
+<td>
+<table border="0"><tr><td>Adresse :</td><td>http://localhost:8080/tpjws/services</td></tr><tr><td>WSDL:</td><td><a href="http://localhost:8080/tpjws/services?wsdl">http://localhost:8080/tpjws/services?wsdl</a></td></tr><tr><td>Classe d'implémentation :</td><td>com.tpjws.ws.BanqueService</td></tr></table>
+</td>
+</tr>
+</table>
+</body>
+</html>
